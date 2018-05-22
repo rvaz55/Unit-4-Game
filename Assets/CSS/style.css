@@ -1,0 +1,25 @@
+div#bodyContainer {
+    background-image: url(../Images/cave.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    width: 100%;
+    height: 100%;
+    color: silver;
+
+}
+
+div.winsLossesRow {
+
+    border: mediumvioletred 3px dashed;
+
+}
+
+div.row {
+    border: orange 2px solid;
+}
+
+div.crystals {
+    border: silver 3px solid;
+
+}
